@@ -1,5 +1,5 @@
-# number of gusses
-# number of gusses left and then game over
+# Code is about the number guessing : 
+# Initially coder set a particular value for 'n'(guessing number) and we have to guess that particular value for 'n' in limited number of chances
 
 n = 18
 number_of_guesses = 1
